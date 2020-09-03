@@ -1,0 +1,10 @@
+ mpi_init done.
+ mpi_init done.
+ mpi_init done.
+ mpi_init done.
+ CPU(serial): 
+   sum(fmat) =     8000000000.000000     
+   time      =     21.70228505134583     
+ GPU: 
+   sum(fmat) =     8000000000.000000     
+   time      =    0.1637491    

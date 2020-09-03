@@ -1,0 +1,2 @@
+type_cuda_aware_mpi : test whether the cuda-aware mpi can pass message of device matrix of a object reside on different GPUs(process).
+type_cuda_aware_mpi_pointer : test whether the cuda-aware mpi can pass message of device matrix of a object reside on different GPUs(process) through pointer. 

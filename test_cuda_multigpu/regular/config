@@ -1,0 +1,4 @@
+nmat, p2p : 
+/home/cchen/pgi-openmpi-cuda-install/bin/mpif90 -Mcuda  -c nmat.f90
+/home/cchen/pgi-openmpi-cuda-install/bin/mpif90 -Mcuda  -o main nmat.o
+
